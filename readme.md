@@ -1,1 +1,1 @@
-Hello
+Hello, this is a description of a project.
